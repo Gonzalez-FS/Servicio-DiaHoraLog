@@ -1,0 +1,45 @@
+﻿Instalando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Deshaciendo ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Instalando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Instalando el servicio Service7...
+El servicio Service7 se ha instalado correctamente.
+Creando el origen de EventLog Service7 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Desinstalando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Quitando el origen de EventLog Service7.
+Se está quitando el servicio Service7 del sistema...
+El servicio Service7 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service7.
+Instalando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe
+Instalando el servicio Service7...
+El servicio Service7 se ha instalado correctamente.
+Creando el origen de EventLog Service7 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService7\bin\Debug\WindowsService7.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService7\bin\Debug\WindowsService7.InstallLog
+   assemblypath = C:\WindowsService7\bin\Debug\WindowsService7.exe

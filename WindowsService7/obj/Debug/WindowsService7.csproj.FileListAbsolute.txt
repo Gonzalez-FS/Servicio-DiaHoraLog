@@ -1,0 +1,10 @@
+C:\WindowsService7\bin\Debug\WindowsService7.exe.config
+C:\WindowsService7\bin\Debug\WindowsService7.exe
+C:\WindowsService7\bin\Debug\WindowsService7.pdb
+C:\WindowsService7\obj\Debug\WindowsService7.csprojAssemblyReference.cache
+C:\WindowsService7\obj\Debug\WindowsService7.ProjectInstaller.resources
+C:\WindowsService7\obj\Debug\WindowsService7.Service7.resources
+C:\WindowsService7\obj\Debug\WindowsService7.csproj.GenerateResource.cache
+C:\WindowsService7\obj\Debug\WindowsService7.csproj.CoreCompileInputs.cache
+C:\WindowsService7\obj\Debug\WindowsService7.exe
+C:\WindowsService7\obj\Debug\WindowsService7.pdb
